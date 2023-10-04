@@ -13,6 +13,7 @@
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.14.11",
     "next": "latest",
+    "next-auth": "^4.23.2",
     "react": "latest",
     "react-dom": "latest"
   },
